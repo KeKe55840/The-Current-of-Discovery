@@ -21,7 +21,6 @@ public class Button : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.log("aaaaaaaaaaaah");
         }
     }
 }
